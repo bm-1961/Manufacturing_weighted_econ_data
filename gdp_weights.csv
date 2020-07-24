@@ -1,0 +1,56 @@
+﻿State,GDP_Contribution,Region,GDP_region
+United States,1,US,1
+Connceticut,0.013,New England,0.245283
+Maine,0.003,New England,0.056604
+Massachusetts,0.028,New England,0.528302
+New Hampshire,0.004,New England,0.075472
+Rhode Island,0.003,New England,0.056604
+Vermont,0.002,New England,0.037736
+Delaware,0.004,Mideast,0.022222
+District of Columbia,0.007,Mideast,0.038889
+Maryland,0.02,Mideast,0.111111
+New Jersey,0.03,Mideast,0.166667
+New York,0.081,Mideast,0.45
+Pennsylvania,0.038,Mideast,0.211111
+Illinois,0.042,Great Lakes,0.313433
+Indiana,0.018,Great Lakes,0.134328
+Michigan,0.025,Great Lakes,0.186567
+Ohio,0.033,Great Lakes,0.246269
+Wisconsin,0.016,Great Lakes,0.119403
+Iowa,0.009,Plains,0.145161
+Kansas,0.008,Plains,0.129032
+Minnesota,0.018,Plains,0.290323
+Missouri,0.016,Plains,0.258065
+Nebraska,0.006,Plains,0.096774
+North Dakota,0.003,Plains,0.048387
+South Dakota,0.002,Plains,0.032258
+Alabama,0.011,Southeast,0.051887
+Arkansas,0.006,Southeast,0.028302
+Florida,0.051,Southeast,0.240566
+Georgia,0.029,Southeast,0.136792
+Kentucky,0.01,Southeast,0.04717
+Louisiana,0.012,Southeast,0.056604
+Mississippi,0.006,Southeast,0.028302
+North Carolina,0.027,Southeast,0.127358
+South Carolina,0.012,Southeast,0.056604
+Tennessee,0.018,Southeast,0.084906
+Virginia,0.026,Southeast,0.122642
+West Virginia,0.004,Southeast,0.018868
+Southwest,0.12,Southwest,0.387097
+Arizona,0.017,Southwest,0.054839
+New Mexico,0.005,Southwest,0.016129
+Oklahoma,0.01,Southwest,0.032258
+Texas,0.088,Southwest,0.283871
+Rocky Mountain,0.035,Rocky Mountain,0.112903
+Colorado,0.018,Rocky Mountain,0.058065
+Idaho,0.004,Rocky Mountain,0.012903
+Montana,0.002,Rocky Mountain,0.006452
+Utah,0.009,Rocky Mountain,0.029032
+Wyoming,0.002,Rocky Mountain,0.006452
+Far West,0.202,Far West,0.5
+Alaska,0.003,Far West,0.007426
+California,0.146,Far West,0.361386
+Hawaii,0.005,Far West,0.012376
+Nevada,0.008,Far West,0.019802
+Oregon,0.012,Far West,0.029703
+Washington,0.028,Far West,0.069307
